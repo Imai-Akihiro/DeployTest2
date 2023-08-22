@@ -1,5 +1,5 @@
 # add comments
-# foobar
+# foobar2
 resources:
 - helloweb-deployment.yaml
 - helloweb-service-load-balancer.yaml
