@@ -10,7 +10,7 @@ env:
   PROJECT_ID: ${{ secrets.GKE_PROJECT_DEV }}
   GKE_CLUSTER: cicd-test-cluster-1
   GKE_ZONE: asia-northeast2
-  DEPLOYMENT_NAME: test-deploy
+  DEPLOYMENT_NAME: helloweb
   IMAGE: hello-app
 
 jobs:
